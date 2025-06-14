@@ -1,0 +1,22 @@
+{
+  "python.analysis.typeCheckingMode": "basic", 
+  "python.languageServer": "Pylance", 
+
+  "[python]": {
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "explicit", 
+      "source.organizeImports": "explicit" 
+    }
+  },
+  "ruff.enable": true,
+  "ruff.fixAll": true, 
+  "ruff.organizeImports": true, 
+
+  "markdownlint.config": {
+  },
+  "[markdown]": {
+    "editor.formatOnSave": true 
+  }
+}

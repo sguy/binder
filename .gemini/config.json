@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "context": {
+    "include": [
+      {
+        "when": {
+          "activeFile": {
+            "pattern": "**/*.ipynb"
+          }
+        },
+        "files": [
+          "gemini/styleguide-ipynb.md",
+          "gemini/styleguide.md"
+        ]
+      }
+    ]
+  }
+}
