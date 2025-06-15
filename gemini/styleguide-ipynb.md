@@ -48,6 +48,8 @@ Use consistent visual cues (e.g., emojis or icons) to denote different types of 
     *   _Example: "🚀 **Pro-Tip:** Python also supports f-strings for even more flexible string formatting. We'll explore those later!"_
 *   🐍 **Python / New Concept:** When introducing a new Python command, programming concept, or key vocabulary.
     *   _Example: "🐍 **New Concept: Variables** - Variables are like containers that store information."_
+*   ⚠️ **Heads Up!:** For important distinctions, common pitfalls, or things students need to be particularly careful about.
+    *   _Example: "⚠️ **Heads Up!** Python is case-sensitive, meaning `myVariable` and `myvariable` are different."_
 *   🤔 **Discussion Question:** To prompt thought and reflection. These can be open-ended.
     *   _Example: "🤔 **Discussion Question:** Can you think of other situations where using a loop would be helpful?"_
 *   🔗 **External Resources:** For links to relevant external websites, videos, or articles.
